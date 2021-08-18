@@ -1,0 +1,15 @@
+{
+  "name": "codility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "max_sice.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
